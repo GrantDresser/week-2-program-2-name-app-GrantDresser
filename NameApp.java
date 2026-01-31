@@ -19,7 +19,7 @@ public class NameApp {
         double sleep = input.nextDouble();
 
         // Output
-        System.out.println("\n----- Personal Information -----");
+        System.out.println("\n------ Personal Information ------");
         System.out.format("Name: %s %s%n", firstName, lastName);
         System.out.format("Age: %d years%n", age);
         System.out.format("Average Sleep: %.1f hours per night%n", sleep);
